@@ -1,4 +1,7 @@
+<?php
+
 // A simple example of a class
+
 class User {
     public $name;
     public $age;
